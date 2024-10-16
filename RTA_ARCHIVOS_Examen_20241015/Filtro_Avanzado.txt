@@ -1,0 +1,4 @@
+Mi IP Publica es: 201.177.229.15
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2
+La URL de mi repositorio es: https://github.com/grxywarxn/UTNFRA_SO_1P2C_2024_Claros.git
