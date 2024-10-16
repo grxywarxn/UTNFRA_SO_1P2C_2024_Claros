@@ -1,4 +1,4 @@
-#!bin/bash/
+#!/bin/bash
 
 sudo useradd -m -s /bin/bash -c "Usuario alumno 1" -p $y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2 p1c2_2024_A1
 sudo useradd -m -s /bin/bash -c "Usuario alumno 2" -p $y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2 p1c2_2024_A2
